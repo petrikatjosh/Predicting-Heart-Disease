@@ -1,5 +1,6 @@
 ## Project Overview
 This project analyzes patient data from the Cleveland Heart Disease dataset to predict the presence of heart disease using machine learning techniques. The focus is on evaluating different models and identifying the strengths and weaknesses of each, with particular attention to the K-Nearest Neighbors (KNN) algorithm.
+
 Contributors: Jason Corona, Tyler Tseng, Raeed Shaikh, Andres Arevalo, Joshua Petrikat
 
 ## Tools
